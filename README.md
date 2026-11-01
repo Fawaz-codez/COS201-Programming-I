@@ -1,8 +1,8 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- **Name:** Kelvin  Gabriel Ukpong
-- **Matriculation Number:** 25/17314
+- **Name:** Fawas Odetayo
+- **Matriculation Number:** 25/17769
 - **Programme:** Computer Science
 - **Course Code:** COS201
 
